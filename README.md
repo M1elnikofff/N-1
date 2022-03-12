@@ -2,3 +2,4 @@
 # N-1
 N1
 ![wam](https://user-images.githubusercontent.com/101068964/157811228-c55a494c-4b05-44cc-b442-911093ed9829.jpg)
+LICENSE.txt
